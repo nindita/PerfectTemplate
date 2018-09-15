@@ -1,0 +1,11 @@
+version: "Swift version 4.1.3 (swift-4.1.3-RELEASE)"
+options: "bcef05da17805dc3b6adfadd9b85b177"
+build_time: [1537026069, 951976520]
+inputs:
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--1068550396388662696/Sources/PerfectCrypto/Algorithms.swift": [1537026052, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--1068550396388662696/Sources/PerfectCrypto/ByteIO.swift": [1537026052, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--1068550396388662696/Sources/PerfectCrypto/Extensions.swift": [1537026052, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--1068550396388662696/Sources/PerfectCrypto/JWT.swift": [1537026052, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--1068550396388662696/Sources/PerfectCrypto/Keys.swift": [1537026052, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--1068550396388662696/Sources/PerfectCrypto/OpenSSLInternal.swift": [1537026052, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--1068550396388662696/Sources/PerfectCrypto/PerfectCrypto.swift": [1537026052, 0]

@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/master.swiftdeps"
+  },
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Thread.git-4899849200049595124/Sources/Promise.swift": {
+    "dependencies": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise.d",
+    "object": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise.swift.o",
+    "swiftmodule": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise~partial.swiftmodule",
+    "swift-dependencies": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise.swiftdeps"
+  },
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Thread.git-4899849200049595124/Sources/Threading.swift": {
+    "dependencies": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading.d",
+    "object": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading.swift.o",
+    "swiftmodule": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading~partial.swiftmodule",
+    "swift-dependencies": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading.swiftdeps"
+  },
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Thread.git-4899849200049595124/Sources/ThreadQueue.swift": {
+    "dependencies": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue.d",
+    "object": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue.swift.o",
+    "swiftmodule": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue~partial.swiftmodule",
+    "swift-dependencies": "/home/didit/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue.swiftdeps"
+  }
+}

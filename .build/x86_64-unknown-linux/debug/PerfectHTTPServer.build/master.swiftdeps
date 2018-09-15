@@ -1,0 +1,22 @@
+version: "Swift version 4.1.3 (swift-4.1.3-RELEASE)"
+options: "8ed41b6cc1249e56926a20ed2bcb48ab"
+build_time: [1537026089, 802572620]
+inputs:
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTPServer.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1537026051, 0]
+  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-4372480865989994776/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1537026051, 0]
