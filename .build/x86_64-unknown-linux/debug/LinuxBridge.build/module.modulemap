@@ -1,4 +1,0 @@
-module LinuxBridge {
-    umbrella header "/home/didit/PerfectTemplate/.build/checkouts/Perfect-LinuxBridge.git-4677940628831316620/LinuxBridge/include/LinuxBridge.h"
-    export *
-}

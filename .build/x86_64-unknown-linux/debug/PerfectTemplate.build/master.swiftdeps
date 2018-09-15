@@ -1,5 +1,0 @@
-version: "Swift version 4.1.3 (swift-4.1.3-RELEASE)"
-options: "bb93ec08437f09e69ea959c2a5649add"
-build_time: [1537026098, 747188671]
-inputs:
-  "/home/didit/PerfectTemplate/Sources/PerfectTemplate/main.swift": [1537023769, 0]

@@ -1,7 +1,0 @@
-version: "Swift version 4.1.3 (swift-4.1.3-RELEASE)"
-options: "e7f9cae13ea77f2748e961ba5f42fd45"
-build_time: [1537026057, 456375339]
-inputs:
-  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Thread.git-4899849200049595124/Sources/Promise.swift": [1537026051, 0]
-  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Thread.git-4899849200049595124/Sources/Threading.swift": [1537026051, 0]
-  "/home/didit/PerfectTemplate/.build/checkouts/Perfect-Thread.git-4899849200049595124/Sources/ThreadQueue.swift": [1537026051, 0]
